@@ -1,0 +1,26 @@
+body{
+	background: #fbd017;
+}
+
+h1{
+	font-family: 'Patua One', cursive;
+	font-size: 450%;
+	text-align: center;
+}
+
+.text{
+	width: 80%;
+	top: 50%;
+	left: 50%;
+	position: absolute;
+	transform: translate(-50%, -50%);
+}
+
+a:link{
+	color: #cf2028;
+	text-decoration: none;
+}
+
+a:visited{
+	color: #
+}

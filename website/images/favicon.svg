@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000" viewBox="-19 -19 38 38">
+<title>Sun Symbol of the Philippines</title>
+<desc>Coding according to the official "description and specification of the FILIPINO flag" in Executive Order No. 23 from 1936</desc>
+<g fill="#fcd116">
+	<circle r="9"/>
+	<g id="j">
+		<g id="i">
+			<g id="h">
+<!-- these coordinates are  -1/(1+tan(k*Pi/48)),1-1/(1+tan(k*Pi/48)) -->
+				<path d="M -1,0 L -0.93848823,0.06151177 L 0,0 L -0.93848823,-0.06151177 z" transform="scale(19)"/>
+				<path id="g" d="M -0.88366349,0.11633651 L -0.83408932,0.16591068 L 0,0 z" transform="scale(19.238092)"/>
+				<use xlink:href="#g" transform="scale(1,-1)"/>
+			</g>
+			<use xlink:href="#h" transform="rotate(45)"/>
+		</g>
+		<use xlink:href="#i" transform="rotate(90)"/>
+	</g>
+	<use xlink:href="#j" transform="rotate(180)"/>
+</g>
+</svg>
